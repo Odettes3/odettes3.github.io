@@ -1,6 +1,7 @@
 body {
     background-color: mistyrose;
     color: black;
+    font-family: 'Assistant', sans-serif;
 }
 
 .profile-image {
@@ -10,5 +11,5 @@ body {
     top: 10px;
     right: 10px;
     border-radius: 100px;
-    border: 3px solid rebeccapurple
+    border: 3px solid white
 }
